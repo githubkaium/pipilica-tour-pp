@@ -1,5 +1,8 @@
-.title {
+.header {
     text-align: center;
-    color: yellowgreen;
-    border: 1px solid black;
+    color: darkolivegreen;
+    background-color: goldenrod;
+    border: 1px solid darkgoldenrod;
+    margin: 0px 84px 20px 100px;
+    border-radius: 400px 400px 0px 0px;
 }
