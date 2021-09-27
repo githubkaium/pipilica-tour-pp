@@ -2,6 +2,7 @@
     {
         "name": "Robert Patrik",
         "id": "pt01",
+        "gender": "Male",
         "age": 34,
         "profession": "Journalist",
         "fee": 9000,
@@ -10,6 +11,7 @@
     {
         "name": "Peter Jonshon",
         "id": "pt02",
+        "gender": "Male",
         "age": 42,
         "profession": "Businessman",
         "fee": 9000,
@@ -18,6 +20,7 @@
     {
         "name": "Anthonio Sam",
         "id": "pt03",
+        "gender": "Male",
         "age": 31,
         "profession": "Artist",
         "fee": 9000,
@@ -26,6 +29,7 @@
     {
         "name": "Luis Verdan",
         "id": "pt04",
+        "gender": "Male",
         "age": 26,
         "profession": "Student",
         "fee": 7000,
@@ -34,6 +38,7 @@
     {
         "name": "Pavel Paulo",
         "id": "pt05",
+        "gender": "Male",
         "age": 29,
         "profession": "Teacher",
         "fee": 8000,
@@ -42,6 +47,7 @@
     {
         "name": "Navin Pan",
         "id": "pt06",
+        "gender": "Male",
         "age": 25,
         "profession": "Student",
         "fee": 7000,
@@ -50,6 +56,7 @@
     {
         "name": "Martin Luthar",
         "id": "pt07",
+        "gender": "Male",
         "age": 52,
         "profession": "Professor",
         "fee": 9000,
@@ -58,6 +65,7 @@
     {
         "name": "Lathio Samuel",
         "id": "pt08",
+        "gender": "Male",
         "age": 32,
         "profession": "Teacher",
         "fee": 8000,
@@ -66,7 +74,8 @@
     {
         "name": "Jhon Fedrik",
         "id": "pt09",
-        "age": 46,
+        "gender": "Male",
+        "age": 26,
         "profession": "Fashion Designer",
         "fee": 9000,
         "img": "https://image.freepik.com/free-photo/yeah-feeling-courage-readiness-achieve-success-confident-delighted-optimistic-african-american-bearded-man-raising-clenched-fists-celebration-triumphing-being-happy-with-good-result_176420-35027.jpg"

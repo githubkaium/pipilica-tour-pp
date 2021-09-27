@@ -14,7 +14,6 @@ const List = () => {
     }, [])
 
     const handleAddToTour = (item) => {
-        // console.log(item.name);
         const newPick = [...pick, item];
         setPick(newPick);
     }
