@@ -28,4 +28,5 @@ const Pick = (props) => {
         </div >
     );
 };
+
 export default Pick;
